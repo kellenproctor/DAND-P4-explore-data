@@ -1,0 +1,16 @@
+---
+title: "P4-Exploratory_Data_Analysis"
+author: "Kellen Proctor"
+date: "March 24, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here we go, exploring white wines!!
+
+White wines get no love. All of that is reserved for the big, bold, fruity Reds. But perhaps that is more of a factor of approachability, and a lack of understanding. So let's dive into the data, and maybe we can unearth some of the secrets of good white wine, and help people to understand why white wines are amazing!
+
+
